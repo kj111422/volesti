@@ -11,6 +11,8 @@ comments in each target for the exact protocol, seeds, and gate criteria.
   samplers (cube/ball support and covariance, V-polytope support oracle,
   Birkhoff assignment oracle and coordinate mapping, independent LP
   membership, seeded statistical checks). Fast (~1 s).
+- `phase2a` — scale-controlled cube/ball screening (raw, RMS-normalized,
+  population-matched), dimensions 5–100. Direct sampling only.
 
 ## Build
 
